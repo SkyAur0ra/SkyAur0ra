@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, this is SkyGazer(@SkyAur0ra) 👋
 
 <!--
 **SkyAur0ra/SkyAur0ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,28 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Programming skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=golang">
-  <img src="https://skillicons.dev/icons?i=vue">
-  <img src="https://skillicons.dev/icons?i=python">
-  <img src="https://skillicons.dev/icons?i=rust">
-  <img src="https://skillicons.dev/icons?i=c">
-</p>
+#### Frequently Use
+
+<a href="https://github.com/syvixor/skills-icons">
+  <img align="center" src="https://skills-icons.vercel.app/api/icons?i=c,golang,vue,python" />
+</a>
+
+#### Currently Learning......
+
+<a href="https://github.com/syvixor/skills-icons">
+  <img align="center" src="https://skills-icons.vercel.app/api/icons?i=rust,dotnet" />
+</a>
 
 ## Graphs
 
-<div style="display: flex; justify-content: space-around;">
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=SkyAur0ra" alt="Anurag's GitHub stats">
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyAur0ra" alt="Top Langs">
-    </a>
-  </div>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyAur0ra&langs_count=8&layout=compact&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SkyAur0ra&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true&hide_border=true" />
+  </a>
 </div>
 
 
