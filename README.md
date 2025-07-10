@@ -15,6 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyAur0ra)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyAur0ra)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=golang">
+  <img src="https://skillicons.dev/icons?i=vue">
+  <img src="https://skillicons.dev/icons?i=python">
+  <img src="https://skillicons.dev/icons?i=rust">
+  <img src="https://skillicons.dev/icons?i=c">
+</p>
+
+## Graphs
+
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=SkyAur0ra" alt="Anurag's GitHub stats">
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyAur0ra" alt="Top Langs">
+    </a>
+  </div>
+</div>
+
+
