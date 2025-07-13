@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 #### Currently Learning......
 
 <a href="https://github.com/syvixor/skills-icons">
-  <img align="center" src="https://skills-icons.vercel.app/api/icons?i=rust,csharp" />
+  <img align="center" src="https://skills-icons.vercel.app/api/icons?i=rust,csharp,typescript" />
 </a>
 
 ## Graphs
