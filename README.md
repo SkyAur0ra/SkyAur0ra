@@ -1,4 +1,4 @@
-## Hi, this is SkyGazer(@SkyAur0ra) 👋
+## Hi, this is SkY9Az3r(@SkyAur0ra) 👋
 
 <!--
 **SkyAur0ra/SkyAur0ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
