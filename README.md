@@ -1,4 +1,5 @@
 ## Hi, this is SkY9Az3r(@SkyAur0ra) 👋
+I am a university student majored in Software Engineering ✨
 
 <!--
 **SkyAur0ra/SkyAur0ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,19 +16,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Fun fact
+- Compiler
+- OS
+- Reverse Engineering
+
 ## Programming skills
 
-#### Frequently Use
+### Frequently Use
 
-<a href="https://github.com/syvixor/skills-icons">
-  <img align="center" src="https://skills-icons.vercel.app/api/icons?i=c,golang,vue,python" />
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c">
+  <img src="https://skillicons.dev/icons?i=golang">
+  <img src="https://skillicons.dev/icons?i=vue">
+  <img src="https://skillicons.dev/icons?i=python">
+  <img src="https://skillicons.dev/icons?i=spring">
+  <img src="https://skillicons.dev/icons?i=cmake">
+  <img src="https://skillicons.dev/icons?i=linux">
+  <img src="https://github.com/Lil-Ran/Lil-Ran/raw/main/assets/moonbit.svg">
+</p>
 
-#### Currently Learning......
+### Currently Learning
 
-<a href="https://github.com/syvixor/skills-icons">
-  <img align="center" src="https://skills-icons.vercel.app/api/icons?i=rust,csharp" />
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust">
+  <img src="https://skillicons.dev/icons?i=cs">
+  <img src="https://skillicons.dev/icons?i=ts">
+</p>
 
 ## Graphs
 
