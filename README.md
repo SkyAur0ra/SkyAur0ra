@@ -47,13 +47,9 @@ Here are some ideas to get you started:
 
 ## Graphs
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyAur0ra&langs_count=8&layout=compact&hide_border=true&exclude_repo=SkyAur0ra.github.io" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SkyAur0ra&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true&hide_border=true" />
-  </a>
-</div>
+<picture>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyAur0ra&layout=compact&langs_count=8&exclude_repo=SkyAur0ra,SkyAur0ra.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SkyAur0ra&show_icons=true&theme=radical" />
+</picture>
 
 
