@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ## Graphs
 
 <picture>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyAur0ra&layout=compact&langs_count=8&exclude_repo=SkyAur0ra,SkyAur0ra.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyAur0ra&layout=compact&exclude_repo=SkyAur0ra,SkyAur0ra.github.io&theme=radical" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SkyAur0ra&show_icons=true&theme=radical" />
 </picture>
 
